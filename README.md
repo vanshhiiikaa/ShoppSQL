@@ -8,11 +8,12 @@ The project demonstrates skills in **Python, Pandas, NumPy, Matplotlib, and Stat
 
 ## 🛠️ Tools & Technologies
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Jupyter Notebook
+- SQL / MySQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
 ## 📊 Analysis Performed
 
