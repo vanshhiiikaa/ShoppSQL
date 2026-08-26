@@ -92,14 +92,6 @@ This is a **personal data-analysis project** created to practice and demonstrate
 
 It is not based on paid client work.
 
-## 👨‍💻 Skills Demonstrated
-
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis
-* Statistical Analysis
-* Data Visualization
-* Python Programming
-* Pandas
-* NumPy
-* Matplotlib
+##SKilles used
+*SQL
+*MySQL Workbench
