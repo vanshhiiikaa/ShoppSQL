@@ -10,7 +10,6 @@ The project demonstrates skills in **Python, Pandas, NumPy, Matplotlib, and Stat
 
 - SQL / MySQL
 - Python
-- Pandas
 - NumPy
 - Matplotlib
 - Jupyter Notebook
